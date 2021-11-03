@@ -6,7 +6,9 @@ This file is a documentation file for an exercise performed as a part of Data Sc
 Dataset is available here:https://www.kaggle.com/quantbruce/real-estate-price-prediction. Purpose of this excercise is to find answer to 3 questions (provide 3 insights):
 
 Question 1 - How does the price changes with the age of the house?
+
 Question 2 - How could the distance of the nearst MRT affect house pricing?
+
 Question 3 -What is the role of nearby stores in house pricing?
 
 
