@@ -26,5 +26,5 @@ Here I used:
 Analysis has provded answer to 3 business questions and proven that (age of the houe, the distance to nearest MRT, number of convenience stores) 
 and many other features have a big effect on house pricing.
 
-**Check out this Blog [here](https)**
+**Check out this Blog [here](https://github.com/emanhsn3/DSND-Project-1/wiki/Features-Effect-on-House-Pricing)**
 
