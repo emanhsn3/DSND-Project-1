@@ -27,4 +27,7 @@ Analysis has provded answer to 3 business questions and proven that (age of the 
 and many other features have a big effect on house pricing.
 
 **Check out this Blog [here](https://github.com/emanhsn3/DSND-Project-1/wiki/Features-Effect-on-House-Pricing)**
+## Acknowledgements
+- [How Do YOU Become A Developer?, Josh Bernard's Blog on Medium](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711)
+- [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
